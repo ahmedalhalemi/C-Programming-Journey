@@ -6,14 +6,14 @@ This repository documents my progress in learning C programming through small pr
 
 ### 01 - Basics
 - *Odd and Even Checker*  
-  A program that determines whether a number is odd or even.
-  
+  A console program that determines whether a number is odd or even.
+
   Features:
   - Uses scanf and printf
   - Applies if-else logic
   - Uses modulo operator %
   - Includes input validation
-  - Displays a welcome message
+  - Allows the user to repeat the program using a do-while loop
 
 More projects will be added as I continue learning.
 
