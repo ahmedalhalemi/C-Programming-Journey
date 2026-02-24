@@ -17,13 +17,14 @@ Features:
 ---
 
 ### 02 - Simple Calculator
-A basic console calculator that performs arithmetic operations.
+A console-based calculator that performs basic arithmetic operations.
 
-Features:
-- Supports +, -, *, /
-- Uses switch statement
-- Handles division by zero
-- Works with floating-point numbers
+  Features:
+  - Supports +, -, *, /
+  - Uses switch statement
+  - Handles division by zero
+  - Includes input validation
+  - Allows multiple calculations using a do-while loop
 
 ---
 
