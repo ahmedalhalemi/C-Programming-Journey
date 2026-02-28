@@ -28,5 +28,16 @@ A console-based calculator that performs basic arithmetic operations.
 
 ---
 
+### 03 - Number Guessing Game
+A console-based game where the user tries to guess a randomly generated number between 1 and 100.
+
+Features:
+- Random number generation using rand()
+- Continuous user input using a while loop
+- Attempt counter to track guesses
+- High/low feedback system
+
+---
+
 *Ahmed Alhalemi*  
 Software Engineering Student 
