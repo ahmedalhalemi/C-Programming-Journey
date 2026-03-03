@@ -36,6 +36,8 @@ Features:
 - Continuous user input using a while loop
 - Attempt counter to track guesses
 - High/low feedback system
+- Input validation to prevent invalid entries
+- Range check (1-100)
 
 ---
 
