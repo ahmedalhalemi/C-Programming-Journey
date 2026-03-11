@@ -41,5 +41,15 @@ Features:
 
 ---
 
+### 04 - Student Grade Analyzer
+A console-based program that stores student grades using arrays and performs basic statistical analysis.
+
+Features:
+- Stores multiple grades using arrays
+- Calculates average grade
+- Finds highest and lowest grade
+
+--- 
+
 *Ahmed Alhalemi*  
 Software Engineering Student 
