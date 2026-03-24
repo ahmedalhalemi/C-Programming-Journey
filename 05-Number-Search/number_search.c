@@ -20,7 +20,7 @@ int main() {
 
     for (int i = 0; i < n; i++) {
         if (arr[i] == target) {
-            printf("Number found at position %d\n", i);
+            printf("Number found at index %d\n", i);
             found = 1;
             break;
         }
