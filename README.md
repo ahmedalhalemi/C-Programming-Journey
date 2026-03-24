@@ -51,5 +51,16 @@ Features:
 
 --- 
 
+### 05 - Number Search
+A program that stores numbers in an array and searches for a specific value.
+
+Features:
+- Stores numbers using arrays
+- Searches for a target number
+- Displays index if found
+- Shows message if not found
+
+---
+
 *Ahmed Alhalemi*  
-Software Engineering Student 
+Software Engineering Student
