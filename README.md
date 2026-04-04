@@ -62,5 +62,16 @@ Features:
 
 ---
 
+### 06 - Number Sorting
+A program that stores numbers in an array and sorts them in ascending order.
+
+Features:
+- Stores numbers using arrays
+- Sorts numbers in ascending order
+- Uses nested loops
+- Applies Bubble Sort algorithm
+
+---
+
 *Ahmed Alhalemi*  
 Software Engineering Student
