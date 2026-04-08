@@ -67,7 +67,8 @@ A program that stores numbers in an array and sorts them in ascending order.
 
 Features:
 - Stores numbers using arrays
-- Sorts numbers in ascending order
+- Supports ascending and descending sorting
+- Includes input validation for user input 
 - Uses nested loops
 - Applies Bubble Sort algorithm
 
