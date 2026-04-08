@@ -63,14 +63,14 @@ Features:
 ---
 
 ### 06 - Number Sorting
-A program that stores numbers in an array and sorts them in ascending order.
+A program that stores numbers in an array and sorts them in ascending or descending order.
 
 Features:
 - Stores numbers using arrays
-- Supports ascending and descending sorting
-- Includes input validation for user input 
+- Supports ascending and descending sorting  
 - Uses nested loops
 - Applies Bubble Sort algorithm
+- Includes input validation for user input
 
 ---
 
